@@ -1,0 +1,31 @@
+body {
+    background-image: linear-gradient(to bottom right, #33475b, #0033CC, #FF77CC, rgb(255, 122, 89));
+}
+
+h1 {
+    text-align: center;
+    margin-top: 50px;
+    font-style: oblique;
+    font-size: xx-large;
+}
+
+figcaption {
+    font-style: italic;
+    
+}
+
+figure {
+    margin-top: 100px;
+    font-size: x-large;
+}
+
+.desembarque {
+    text-decoration:underline;
+    font-size: xx-large
+    
+}
+
+h5 {
+    background-color: white;
+}
+
